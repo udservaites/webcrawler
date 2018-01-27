@@ -1,0 +1,207 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 9699
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+Set-Cookie: ASPSESSIONIDASCQTADT=OPJBOIODCFEGKLBKHDOHNLEI; path=/
+X-Powered-By: ASP.NET
+Date: Wed, 24 Jan 2018 01:52:03 GMT
+Connection: close
+
+<!doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Weatherline Inc. - Home</title>
+<meta name="description" content="On Demand Sponsor driven weather by phone"/>
+<meta name="keywords" content="weather phone,call for weather,dial weather,local weather,local weather number,weather telephone,rain,snow,winds,temperature,humidity,time and temperature,exclusive advertising, sponsorship driven,free to the public, weather forecasts by phone, community weather, weather marketing"/>
+<link rel="stylesheet" type="text/css" href="css/reset.css" media="screen"/>
+
+<link rel="stylesheet" type="text/css" href="css/main.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="css/superfish.css" media="screen"/>
+<link rel="stylesheet" href="/css/sifr-screen.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/css/sifr-print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" type="text/css" href="js/shadowbox/shadowbox.css" media="screen"/>
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/sifr.js" type="text/javascript"></script>
+<script src="js/sifr-debug.js" type="text/javascript"></script>
+<script src="js/sifr-config.js" type="text/javascript"></script>
+<script src="js/superfish.js" type="text/javascript"></script>
+<script src="js/swfobject.js" type="text/javascript"></script>
+<script src="js/shadowbox/shadowbox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(document).ready(function() { 
+       $('ul.nav').superfish(); 
+   }); 
+   
+   var ext = {
+   	img:["png","jpg","jpeg","gif","bmp"],
+   	swf:["swf"],
+   	flv:["flv", "mp4", "mp4?"],
+   	qt:["dv","mov","moov","movie"],
+   	wmp:["asf","wm","wmv"],
+   	qtwmp:["avi","mpg","mpeg"],
+   	iframe:["asp","aspx","cgi","cfm","htm","html","jsp","pl","php","php3","php4","php5","phtml","rb","rhtml","shtml","txt","vbs"]
+   }
+   
+Shadowbox.init({
+    players:    ["img", "flv" ],
+    ext: ext
+});
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16487453-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<div id="wrapper">
+		<div id="main_body">
+			<div id="top" style="padding-bottom:15px;">
+				<a href="default.asp" class="logo">Weatherline Inc.</a>
+				
+				<div id="main_nav" >
+					<ul id="nav" class="nav">
+						
+						<li id="btn_clear"><span class="nav_text">Clear</span>
+						<ul><!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+						<li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  </LI>-->
+						</UL></li>
+						
+						<li id="btn_about"><a href="aboutus.asp"><span class="nav_text">About Us</span></a>
+						<ul>
+														
+							<!--<li><a href="about-us/client-list.php">Client List</a></li>-->
+							
+						</ul></li>
+						
+						<!--<li id="btn_partner"><a href="Partners.asp"><span class="nav_text">Partners</span></a>
+						<ul>
+							<!--<li><a href="dvd-training/telephone-doctor-18-module-library.php">Telephone Doctor 18-Module Library</a></li>
+							<li><a href="dvd-training/management-development-dvds.php">Management Development DVDs</a></li>
+							<li><a href="dvd-training/additional-dvd-courses.php">Additional DVD Courses</a></li>-->
+						<!--</ul></li>-->
+						<li id="btn_faq"><a href="faq.asp"><span class="nav_text">FAQ's</span></a>
+						<ul>
+							<!--<li><a href="web-based-training/serviceskills.com-hosted-solution.php">ServiceSkills.com Hosted Solution</a></li>
+							<li><a href="web-based-training/telephone-doctor-lms-courses.php">Telephone Doctor LMS Courses</a></li>-->
+						</ul></li>
+						<li id="btn_contact"><a href="Contactus.asp"><span class="nav_text">Contact Us</span></a>
+						<ul>
+							<!--<li><a href="live-training/on-site-customer-service-workshops.php">On-Site Customer Service Workshops</a></li>
+							<li><a href="live-training/keynote-presentations.php">Keynote Presentations</a></li>
+							<li><a href="live-training/mystery-calling-evaluations.php">Mystery Calling Evaluations</a></li>
+							<li><a href="live-training/telephone-doctor-university.php">Telephone Doctor University</a></li>-->
+						</ul></li>
+						
+					</ul>
+				</div>
+			</div>
+				
+			
+			
+			
+
+
+<div id="content" style="">
+				
+							
+				
+				<div id="banner" ><img src="images/banner.jpg" alt="Banner" /></div>
+<script type="text/javascript">var flashvars = {};
+		var params = {wmode:'transparent'};
+		var attributes = {border:'0'};
+		swfobject.embedSWF("banner/wlbanner-4.swf", "banner", "664", "276", "9.0.0", null, flashvars, params, attributes);
+	</script>
+
+	
+ 				
+		
+		
+		<div id="vid_preview" style="border:1px #FEBD10 solid">
+		<table border="0"  style="display:none;position:relative;padding-top:10px;padding-left:0px;font-size:16px;font-face:tohoma verdana arial" cellpadding="0" cellspacing="5">
+		
+		<TR valign="top" align="left">
+		<TD colspan="2" align="left" style="padding-bottom:10px">
+		<img src="images/premier1.gif" />
+		</TD>
+		</TR>
+		<TR>
+			<TD align="right">
+		<a rel="shadowbox;width=640;height=360" href="samples/OnlineSamples_1.flv"><img id="button1" border="0" onmouseover="this.src='images/large_audio_over.gif'" onmouseout="this.src='images/large_audio.gif';" src="images/large_audio.gif" width="38" height="38"  /></a>
+			</TD>
+			<TD align="left">&nbsp;Sample 1
+			</TD>
+		</TR>
+		<TR>
+			<TD align="right">
+		<a rel="shadowbox;width=640;height=360" href="samples/OnlineSamples_2.flv"><img border="0" onmouseover="this.src='images/large_audio_over.gif'" onmouseout="this.src='images/large_audio.gif';" src="images/large_audio.gif" width="38" height="38"  /></A>
+			</TD>
+			<TD>&nbsp;Sample 2
+			</TD>
+		</TR>
+		<TR>
+			<TD align="right">
+		<a rel="shadowbox;width=640;height=360" href="samples/OnlineSamples_3.flv"><img border="0" onmouseover="this.src='images/large_audio_over.gif'" onmouseout="this.src='images/large_audio.gif';" src="images/large_audio.gif" width="38" height="38"  /></A>
+			</TD>
+			<TD>&nbsp;Sample 3
+			</TD>
+		</TR>
+		</table>
+		</div>
+
+
+<div style="clear:both;"></div>
+
+<div  id="home_bottom">
+	<table border="0" cellspacing="0" cellpadding="20" width="100%" >
+<tbody>
+<tr>
+<td width="25%" valign="top" align="center">
+<FONT FACE="Tahoma,Verdana,arial" SIZE="5" COLOR="Black">
+<P>Interested in<BR /><BR /> Learning more?</P></FONT>
+
+<a class="btn_contact_home" href="contactus.asp">Contact Us</a>
+</td>
+
+<td width="25%" valign="top" style="padding-top:60px">
+		
+		<table width="100%" cellspacing="0" cellpadding="5" border="0">
+		<TR valign="top">
+		<TD width="10"><img src="images/bullit.gif" vspace="3" /> </td>
+			<TD valign="top">Market Exclusivity</td>
+		</TR>
+		</table>
+</td>
+
+<td width="25%" valign="top" style="padding-top:60px">
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+		<TR valign="top">
+		<TD width="10"><img src="images/bullit.gif"  vspace="5" /> </td>
+				<TD valign="top">Valuable Community Service</td>
+		</TR>
+		</table>
+</td>
+
+<td width="25%" valign="top" style="padding-top:60px">
+<table width="100%" cellspacing="0" cellpadding="5" border="0">
+		<TR valign="top">
+		<TD width="10"><img src="images/bullit.gif"  vspace="5"/> </td>
+		
+		<TD valign="top">Ability to Alter your Message Each Day</td>
+		</TR>
+		</table>
+</td>
