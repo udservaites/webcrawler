@@ -1,5 +1,7 @@
 #CPS 570 Spring 2018
+
 ##Assignment 1 - Part 1
+
 ##Kelsea Sullivan and Kathryn Rebecca Servaites
 
 #### This program will connect to a specified website and will download the contents to the command prompt and to a text file named asgn1_output.txt. 
